@@ -11,4 +11,5 @@
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/janmejaymohanty)](https://www.kaggle.com/janmejaymohanty)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-676767?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=KBZA0M8AAAAJ&hl=en)](https://scholar.google.com/citations?user=KBZA0M8AAAAJ&hl=en)
 
-![Janmejay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janmejay1998\&show_icons=true\&theme=dark#gh-dark-mode-only)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Janmejay1998\&show_icons=true\&theme=dark#gh-dark-mode-only)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Janmejay1998&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
