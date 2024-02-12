@@ -10,3 +10,5 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-4B9AE5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/Janmejay1998)](https://twitter.com/Janmejay1998)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-5DB0DB?style=flat&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/janmejaymohanty)](https://www.kaggle.com/janmejaymohanty)
 [![Google Scholar](https://img.shields.io/badge/-Google_Scholar-676767?style=flat&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=KBZA0M8AAAAJ&hl=en)](https://scholar.google.com/citations?user=KBZA0M8AAAAJ&hl=en)
+
+![Janmejay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janmejay1998\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/Janmejay1998/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
