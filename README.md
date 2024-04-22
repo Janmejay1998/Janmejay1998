@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/Janmejay1998/Janmejay1998/raw/main/giphy-downsized-large.gif">
+<img align="right" height="200" src="https://github.com/Janmejay1998/Janmejay1998/raw/main/giphy.gif">
 
 ###
 
