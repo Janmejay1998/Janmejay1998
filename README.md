@@ -92,7 +92,7 @@
 
 ### Resume
 
-<a href="https://github.com/Janmejay1998/Resume/blob/main/Janmejay_Mohanty_Resume.pdf">
+<a href="https://github.com/Janmejay1998/Janmejay1998/blob/main/Janmejay_Mohanty_Resume.pdf">
   <img src="https://github.com/Janmejay1998/Janmejay1998/blob/main/Janmejay_Mohanty_Resume_Preview.jpg" />
 </a>
 
