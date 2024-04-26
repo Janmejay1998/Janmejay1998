@@ -96,10 +96,12 @@
 ![Page 2](https://github.com/Janmejay1998/Janmejay1998/blob/main/Janmejay_Mohanty_Resume_2.jpg)
 
 ###
-<div>
-<iframe src="https://github.com/Janmejay1998/Janmejay1998/blob/main/Janmejay_Mohanty_Resume.pdf" width="100%" height="800px"></iframe>
+
+<div align="center">
+  <img src="https://github.com/Janmejay1998/Janmejay1998/blob/main/Janmejay_Mohanty_Resume_1.jpg"  />
 </div>
 
 ###
+
 
 
