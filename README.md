@@ -90,10 +90,10 @@
 
 ###
 
-###
+### Resume
 
 <div align="center">
-  <img src="https://github.com/Janmejay1998/Janmejay1998/blob/main/Janmejay_Mohanty_Resume_1.jpg"  />
+  <img src="https://github.com/Janmejay1998/Janmejay1998/blob/main/Janmejay_Mohanty_Resume_Preview.jpg"  />
 </div>
 
 ###
