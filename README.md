@@ -94,6 +94,6 @@
 
 ![Page 1](https://github.com/Janmejay1998/Janmejay1998/blob/main/Janmejay_Mohanty_Resume_1.jpg)
 ![Page 2](https://github.com/Janmejay1998/Janmejay1998/blob/main/Janmejay_Mohanty_Resume_2.jpg)
-![Page 3](https://drive.google.com/file/d/1zTBRzjeuFV9RdL0sQsQm9ma3qNGIuT6h/view?usp=drive_link)
+![Page 3](https://github.com/Janmejay1998/Resume/blob/main/resume.html)
 
 
